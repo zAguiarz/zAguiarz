@@ -1,2 +1,2 @@
-Olá, meu nome é Marcos de Aguiar, tenho 20 anos e estou cursando ciências da comutação pela UNICID.
-Tenho o objetivo de atuar como Desenvolvedor Web.
+Olá, meu nome é Marcos de Aguiar, tenho 21 anos e estou cursando ADS pela UNICID.
+Tenho o objetivo de atuar como Desenvolvedor Full-Stack, na área de projetos relacionados á acessibilidade e segurança.
